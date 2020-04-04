@@ -1,0 +1,2 @@
+# Titanic-Kaggle-project
+Machine learning project to predict who survived the disaster, given a dataset of 891 people. More information can be found on the Kaggle's Titanic page: https://www.kaggle.com/c/titanic
